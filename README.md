@@ -1,3 +1,3 @@
 # Kokoa CLone 2021
 
-CSS got so much better!
+It's raining outside!
