@@ -1,3 +1,7 @@
+.status-bar {
+  top: 0px;
+}
+
 .welcome-header {
   margin: 70px 0px 50px 0px;
   display: flex;
